@@ -1,0 +1,47 @@
+[
+    {
+        "pair": "Name",
+        "price": "Price",
+        "change_24h": "/"
+    },
+    {
+        "pair": "BTC",
+        "price": "$107,492.40",
+        "change_24h": "+0.45%"
+    },
+    {
+        "pair": "ETH",
+        "price": "$3,925.41",
+        "change_24h": "+1.38%"
+    },
+    {
+        "pair": "USDT",
+        "price": "$0.99990004",
+        "change_24h": "-0.02%"
+    },
+    {
+        "pair": "BNB",
+        "price": "$1,094.94",
+        "change_24h": "+0.14%"
+    },
+    {
+        "pair": "XRP",
+        "price": "$2.37",
+        "change_24h": "+0.27%"
+    },
+    {
+        "pair": "SOL",
+        "price": "$188.80",
+        "change_24h": "+1.88%"
+    },
+    {
+        "pair": "USDC",
+        "price": "$0.9996",
+        "change_24h": "+0.00%"
+    },
+    {
+        "pair": "TRX",
+        "price": "$0.3181",
+        "change_24h": "+1.63%"
+    }
+]
